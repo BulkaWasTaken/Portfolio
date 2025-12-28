@@ -18,22 +18,22 @@
     git clone https://github.com/BulkaWasTaken/Portfolio.git
     ```
 
-2.  Instalacja zależności:
-    ```bash
-    npm install
-    ```
-
-3.  Przejście do folderu portfolio:
+2.  Przejście do folderu portfolio:
     ```bash
     cd Portfolio
     ```
 
-3.  Uruchomienie serwera deweloperskiego:
+3.  Instalacja zależności:
+    ```bash
+    npm install
+    ```
+
+4.  Uruchomienie serwera deweloperskiego:
     ```bash
     npm run dev
     ```
 
-4.  Budowanie wersji produkcyjnej:
+5.  Budowanie wersji produkcyjnej:
     ```bash
     npm run build
     ```
