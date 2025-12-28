@@ -15,8 +15,8 @@ const CONTACT_METHODS: readonly ContactMethod[] = [
   {
     icon: Mail,
     label: "Email",
-    value: "dawidbrykalski@icloud.com",
-    href: "mailto:dawidbrykalski@icloud.com",
+    value: "przykladowyemail@icloud.com",
+    href: "mailto:przykladowyemail@icloud.com",
     hoverColor: "group-hover:text-red-400"
   },
   {
