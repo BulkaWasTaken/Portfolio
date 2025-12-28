@@ -14,7 +14,7 @@
 
 1.  Klonowanie repozytorium:
     ```bash
-    git clone [https://github.com/BulkaWasTaken/Portfolio.git](https://github.com/BulkaWasTaken/Portfolio.git)
+    git clone https://github.com/BulkaWasTaken/Portfolio.git
     ```
 
 2.  Instalacja zależności:
