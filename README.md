@@ -9,6 +9,7 @@
 * **Ikony:** [Lucide React](https://lucide.dev/)
 * **Routing:** [React Router](https://reactrouter.com/)
 * **Narzędzia:** [Vite](https://vitejs.dev/)
+* **Lekka optymalizacja kodu:** [Gemini](https://gemini.google.com/)
 
 ## Instalacja i uruchomienie
 
