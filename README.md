@@ -23,6 +23,11 @@
     npm install
     ```
 
+3.  Przejście do folderu portfolio:
+    ```bash
+    cd Portfolio
+    ```
+
 3.  Uruchomienie serwera deweloperskiego:
     ```bash
     npm run dev
